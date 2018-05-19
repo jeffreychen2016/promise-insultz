@@ -1,3 +1,8 @@
 body{
   background-color: lightcoral;
 }
+
+#output{
+  font-size: 3em;
+  text-align: center;
+}
